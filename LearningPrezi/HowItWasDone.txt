@@ -1,2 +1,3 @@
 Ako bolo povedane stiahol som prezi.tex, je to LaTeX subor ked som ho prelozil do pdf
 pomocou stranky overleaf(vid screenshot) vznikla z toho prezentacia v pdf subori.
+Pokus 2
